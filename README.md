@@ -10,3 +10,7 @@ When installed press "Win+R "
 <br >
 Then write "cmd" and press "Enter"
 
+<br > When this menu pops up
+<img align="left" width="673" alt="image" src="https://github.com/AnCarsenat/PianotilesBot/assets/87574028/e17e398d-5e81-4589-8ac9-1ea97ce3326e">
+<br > Write "pip install win32"
+
