@@ -5,10 +5,10 @@ It uses win 32 api, keyboard, pyautogui and time
 <br >
 In case the program can't run you will need to install python : https://www.python.org/downloads/
 <br >
-When installed press "Win+R "
+**When installed:** press "Win+R "
 <br >Then write "cmd" and press "Enter"
 <br >
-<br > When in the command prompt
+**When in the command prompt:**
 <br > Write "pip install win32" and press "Enter"
 <br > Repeat this process for the remaining libraries like Keyboard, pyautogui and time
 
