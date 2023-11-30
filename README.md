@@ -8,8 +8,7 @@ In case the program can't run you will need to install python : https://www.pyth
 When installed press "Win+R "
 Then write "cmd" and press "Enter"
 <br >
-<br > When this menu pops up
-<img width="673" alt="image" src="https://github.com/AnCarsenat/PianotilesBot/assets/87574028/e17e398d-5e81-4589-8ac9-1ea97ce3326e">
-<br > Write "pip install win32"
+<br > When in the command prompt
+<br > Write "pip install win32" and press "Enter"
 <br > Repeat this process for the remaining libraries like Keyboard, pyautogui and time
 
